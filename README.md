@@ -2,7 +2,7 @@
 
 A simple Flutter project. implementing the clean code architecture provided by [ResoCode](https://resocoder.com/flutter-clean-architecture-tdd/) a 7-hour course in how to architecture your code to meet the best practice regarding the readability and flexability , fetching the data from [openweathermap](https://openweathermap.org/api)
 
-
+<a href= "https://gfycat.com/freehalfcondor"> <img src="https://gfycat.com/freehalfcondor.gif" title "Weather App" /></a>
 
 ## skills implemented 
 - clean code Architecture inspired by [ResoCode](https://resocoder.com/).
