@@ -1,0 +1,11 @@
+{
+    "weather": [
+        {
+            "description": "overcast clouds"
+        }
+    ],
+    "main": {
+        "temp":15
+    },
+    "name": "Cairo"
+}
